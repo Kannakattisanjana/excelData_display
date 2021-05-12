@@ -3,7 +3,7 @@
 
 * To Add or modify excel data
 
-1. move to conversion_excel_json directory 
+1. Move to conversion_excel_json directory 
 
     cd conversion_excel_json
 
