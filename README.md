@@ -3,8 +3,10 @@
 
 * To Add or modify excel data
 
-1. cd conversion_excel_json
-2. python apiforexcel.py
+1. move to conversion_excel_json directory 
+    cd conversion_excel_json
+2. Then run the code
+    python apiforexcel.py
 3. Enter the file name
     Example [testing_data.xlsx]
 4. You will get data in the browser so copy paste the address dispalyed 
