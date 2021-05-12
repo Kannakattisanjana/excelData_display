@@ -1,0 +1,1347 @@
+[
+    {
+        "Fund_Name": "ABSL Digital India ",
+        "Ratings": 4.576786206278649,
+        "RatingDEA": 2.7285971321327103
+    },
+    {
+        "Fund_Name": "ABSL Dividend Yield ",
+        "Ratings": 1.505123023411008,
+        "RatingDEA": 0.9872443150657
+    },
+    {
+        "Fund_Name": "ABSL Eqt Advantage ",
+        "Ratings": 2.843623426738472,
+        "RatingDEA": 1.59945736345006
+    },
+    {
+        "Fund_Name": "ABSL Equity ",
+        "Ratings": 3.419720756209408,
+        "RatingDEA": 1.8186567101026698
+    },
+    {
+        "Fund_Name": "ABSL Focused Eqt ",
+        "Ratings": 2.808227701132337,
+        "RatingDEA": 1.5182616399929598
+    },
+    {
+        "Fund_Name": "ABSL Frontline Eqt ",
+        "Ratings": 3.226002097940675,
+        "RatingDEA": 1.83262778990666
+    },
+    {
+        "Fund_Name": "ABSL Index ",
+        "Ratings": 4.056853171306151,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "ABSL India GenNext ",
+        "Ratings": 1.5234989607813934,
+        "RatingDEA": 1.113207277676185
+    },
+    {
+        "Fund_Name": "ABSL Infrastructure ",
+        "Ratings": 3.0887003381829765,
+        "RatingDEA": 3.335235019482945
+    },
+    {
+        "Fund_Name": "ABSL Intl Eqt B ",
+        "Ratings": 2.5233337498245065,
+        "RatingDEA": 1.50926327295806
+    },
+    {
+        "Fund_Name": "ABSL Manufacturing Equity ",
+        "Ratings": 1.7650805890938144,
+        "RatingDEA": 1.13021402338355
+    },
+    {
+        "Fund_Name": "ABSL Midcap ",
+        "Ratings": 1.9790448984132447,
+        "RatingDEA": 1.521514266853265
+    },
+    {
+        "Fund_Name": "ABSL MNC ",
+        "Ratings": 3.2016607696407307,
+        "RatingDEA": 2.15636519106716
+    },
+    {
+        "Fund_Name": "ABSL Small Cap ",
+        "Ratings": 2.785724474124875,
+        "RatingDEA": 1.1355640064040349
+    },
+    {
+        "Fund_Name": "ABSL Sensex ETF ",
+        "Ratings": 2.3883987690747515,
+        "RatingDEA": 2.963344743908115
+    },
+    {
+        "Fund_Name": "Axis Bluechip ",
+        "Ratings": 4.244833715541895,
+        "RatingDEA": 4.629752109541605
+    },
+    {
+        "Fund_Name": "Axis Focused 25 ",
+        "Ratings": 4.522744833823953,
+        "RatingDEA": 4.445921795610465
+    },
+    {
+        "Fund_Name": "Axis Long Term Equity ",
+        "Ratings": 3.9259340705056713,
+        "RatingDEA": 4.31879979080023
+    },
+    {
+        "Fund_Name": "Axis Midcap ",
+        "Ratings": 4.19579802094478,
+        "RatingDEA": 4.52694557756538
+    },
+    {
+        "Fund_Name": "Axis Small Cap ",
+        "Ratings": 4.283489392002304,
+        "RatingDEA": 4.47503336251997
+    },
+    {
+        "Fund_Name": "Baroda Banking & Fin Services ",
+        "Ratings": 3.1941223773019662,
+        "RatingDEA": 1.5540813964484401
+    },
+    {
+        "Fund_Name": "Baroda ELSS 96 ",
+        "Ratings": 2.1206778852910846,
+        "RatingDEA": 1.2573011924467101
+    },
+    {
+        "Fund_Name": "BOI AXA Large & Midcap Eqt ",
+        "Ratings": 2.3069354046168304,
+        "RatingDEA": 1.277299207876055
+    },
+    {
+        "Fund_Name": "BOI AXA Mfg & Infrastructure ",
+        "Ratings": 3.157378850717853,
+        "RatingDEA": 2.251360416953
+    },
+    {
+        "Fund_Name": "Canara Robeco Consumer Trends ",
+        "Ratings": 4.166812181075981,
+        "RatingDEA": 4.20517235439055
+    },
+    {
+        "Fund_Name": "Canara Robeco Emerging Equities ",
+        "Ratings": 3.6411125451836974,
+        "RatingDEA": 1.9762015189683049
+    },
+    {
+        "Fund_Name": "Canara Robeco Infrastructure ",
+        "Ratings": 1.5253932413131477,
+        "RatingDEA": 1.24581382620292
+    },
+    {
+        "Fund_Name": "CPSE ETF ",
+        "Ratings": -0.4128926755902339,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "DSP Equity ",
+        "Ratings": 3.3116379673189704,
+        "RatingDEA": 3.874865263138745
+    },
+    {
+        "Fund_Name": "DSP Equity Opp ",
+        "Ratings": 3.3252034347326287,
+        "RatingDEA": 1.8544984140663452
+    },
+    {
+        "Fund_Name": "DSP Focus ",
+        "Ratings": 2.7791579772436785,
+        "RatingDEA": 1.3123758003656598
+    },
+    {
+        "Fund_Name": "DSP Midcap ",
+        "Ratings": 3.8167295677528097,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "DSP Natural Rsrcs and New Energy ",
+        "Ratings": 3.031175602606662,
+        "RatingDEA": 3.67935973542013
+    },
+    {
+        "Fund_Name": "DSP Small Cap ",
+        "Ratings": 3.0468650536201913,
+        "RatingDEA": 4.13646547840108
+    },
+    {
+        "Fund_Name": "DSP Tax Saver ",
+        "Ratings": 1.7557366624115667,
+        "RatingDEA": 3.0500007536428297
+    },
+    {
+        "Fund_Name": "DSP T.I.G.E.R. ",
+        "Ratings": 3.636630973692891,
+        "RatingDEA": 0.7819583622071801
+    },
+    {
+        "Fund_Name": "DSP Top 100 Equity ",
+        "Ratings": 2.5717590738043583,
+        "RatingDEA": 1.2294352122949601
+    },
+    {
+        "Fund_Name": "Edelweiss ETF Nifty Bank ",
+        "Ratings": 1.8378708844531162,
+        "RatingDEA": 0.603861598656815
+    },
+    {
+        "Fund_Name": "Edelweiss Large Cap B",
+        "Ratings": 3.3210754986165743,
+        "RatingDEA": 1.7693512868762502
+    },
+    {
+        "Fund_Name": "Edelweiss Large Cap C",
+        "Ratings": 3.3510559207171036,
+        "RatingDEA": 3.9629950267483247
+    },
+    {
+        "Fund_Name": "Edelweiss Large Cap ",
+        "Ratings": 3.354091759764606,
+        "RatingDEA": 3.9113677065389254
+    },
+    {
+        "Fund_Name": "Edelweiss Large & Midcap ",
+        "Ratings": 3.1964959125022947,
+        "RatingDEA": 3.95406211893073
+    },
+    {
+        "Fund_Name": "Edelweiss LT Eqt (Tax Svngs) ",
+        "Ratings": 2.3387838434280335,
+        "RatingDEA": 1.21805884744755
+    },
+    {
+        "Fund_Name": "Edelweiss Midcap ",
+        "Ratings": 3.217991953852006,
+        "RatingDEA": 4.928287202738005
+    },
+    {
+        "Fund_Name": "Edelweiss Multi Cap ",
+        "Ratings": 3.1565918885153716,
+        "RatingDEA": 1.7133526305594249
+    },
+    {
+        "Fund_Name": "Essel Large & Midcap ",
+        "Ratings": 2.5256542900226906,
+        "RatingDEA": 1.4070857475368301
+    },
+    {
+        "Fund_Name": "Franklin Build India ",
+        "Ratings": 2.637230218905372,
+        "RatingDEA": 1.147911191506495
+    },
+    {
+        "Fund_Name": "Franklin Bluechip ",
+        "Ratings": 1.9836802559052789,
+        "RatingDEA": 2.0537542225724352
+    },
+    {
+        "Fund_Name": "Franklin Eqt Advantage  ",
+        "Ratings": 1.839646193944686,
+        "RatingDEA": 1.044209674422825
+    },
+    {
+        "Fund_Name": "Franklin Equity  ",
+        "Ratings": 2.32399042338863,
+        "RatingDEA": 1.288213912188285
+    },
+    {
+        "Fund_Name": "Franklin Focused Eqt ",
+        "Ratings": 2.2015586117408628,
+        "RatingDEA": 1.22823825958876
+    },
+    {
+        "Fund_Name": "Franklin Index NSE Nifty  ",
+        "Ratings": 3.349001446234849,
+        "RatingDEA": 1.782990613638895
+    },
+    {
+        "Fund_Name": "Franklin Opportunities  ",
+        "Ratings": 2.7081354792332335,
+        "RatingDEA": 1.40969337894962
+    },
+    {
+        "Fund_Name": "Franklin Prima ",
+        "Ratings": 2.901427636407185,
+        "RatingDEA": 2.0107834405240848
+    },
+    {
+        "Fund_Name": "Franklin Smaller Companies  ",
+        "Ratings": 2.0421683748527375,
+        "RatingDEA": 1.90834795810283
+    },
+    {
+        "Fund_Name": "Franklin Taxshield ",
+        "Ratings": 2.127227105563377,
+        "RatingDEA": 1.18592181756445
+    },
+    {
+        "Fund_Name": "Franklin Technology ",
+        "Ratings": 4.618873025848589,
+        "RatingDEA": 2.73614905381997
+    },
+    {
+        "Fund_Name": "HDFC Capital Builder Value ",
+        "Ratings": 2.3245326042399475,
+        "RatingDEA": 1.3226388516881298
+    },
+    {
+        "Fund_Name": "HDFC Equity ",
+        "Ratings": 2.1496855864432525,
+        "RatingDEA": 1.235821266939485
+    },
+    {
+        "Fund_Name": "HDFC Focused 30 ",
+        "Ratings": 0.9770523443252411,
+        "RatingDEA": 0.610163507511825
+    },
+    {
+        "Fund_Name": "HDFC Growth Opportunities ",
+        "Ratings": 2.0495560738327594,
+        "RatingDEA": 1.14784767014988
+    },
+    {
+        "Fund_Name": "HDFC Index Nifty 50 ",
+        "Ratings": 3.593891082308564,
+        "RatingDEA": 4.45362529392768
+    },
+    {
+        "Fund_Name": "HDFC Index Sensex ",
+        "Ratings": 3.957213883660904,
+        "RatingDEA": 3.8920224211632948
+    },
+    {
+        "Fund_Name": "HDFC Infrastructure ",
+        "Ratings": -0.9570563461475745,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "HDFC Long Term Advantage",
+        "Ratings": 3.2177111815457176,
+        "RatingDEA": 1.698981654857895
+    },
+    {
+        "Fund_Name": "HDFC Mid-Cap Opportunities ",
+        "Ratings": 3.0182390717126557,
+        "RatingDEA": 2.594494507415455
+    },
+    {
+        "Fund_Name": "HDFC Small Cap ",
+        "Ratings": 2.997526287295372,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "HDFC Taxsaver ",
+        "Ratings": 1.6247673911501939,
+        "RatingDEA": 0.99094178266027
+    },
+    {
+        "Fund_Name": "HDFC Top 100 ",
+        "Ratings": 2.3948184403295176,
+        "RatingDEA": 1.3916365340385801
+    },
+    {
+        "Fund_Name": "HSBC Infrastructure Eqt ",
+        "Ratings": -0.37793518487665,
+        "RatingDEA": 4.87186296636198
+    },
+    {
+        "Fund_Name": "HSBC Large Cap Eqt ",
+        "Ratings": 3.4547913502769845,
+        "RatingDEA": 1.8103365824721098
+    },
+    {
+        "Fund_Name": "HSBC Multi Cap Eqt ",
+        "Ratings": 2.67241162431538,
+        "RatingDEA": 1.37808814420564
+    },
+    {
+        "Fund_Name": "HSBC Small Cap Eqt ",
+        "Ratings": 1.9319566853735597,
+        "RatingDEA": 1.6178919839665102
+    },
+    {
+        "Fund_Name": "HSBC Tax Saver Eqt ",
+        "Ratings": 2.5748630095854907,
+        "RatingDEA": 1.37673245375773
+    },
+    {
+        "Fund_Name": "ICICI Pru Dividend Yield Eqt",
+        "Ratings": 1.3724667459470292,
+        "RatingDEA": 1.11869936040787
+    },
+    {
+        "Fund_Name": "ICICI Pru Exports & Services \u00a0",
+        "Ratings": 2.4723146696812703,
+        "RatingDEA": 1.462176410965895
+    },
+    {
+        "Fund_Name": "ICICI Pru Focused Equity",
+        "Ratings": 2.223080400737449,
+        "RatingDEA": 1.41744248713525
+    },
+    {
+        "Fund_Name": "ICICI Pru Large & Midcap",
+        "Ratings": 2.2872908600393678,
+        "RatingDEA": 1.4132304612062199
+    },
+    {
+        "Fund_Name": "ICICI Pru Midcap ",
+        "Ratings": 3.085511523187938,
+        "RatingDEA": 2.44941564147158
+    },
+    {
+        "Fund_Name": "ICICI Pru Midcap Select ETF",
+        "Ratings": 3.044462323225214,
+        "RatingDEA": 3.154218009737315
+    },
+    {
+        "Fund_Name": "ICICI Pru Nifty ETF ",
+        "Ratings": 3.165850182113524,
+        "RatingDEA": 4.1240007467859705
+    },
+    {
+        "Fund_Name": "ICICI Pru Sensex ETF ",
+        "Ratings": 4.831925232956419,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "ICICI Pru Sensex Index ",
+        "Ratings": 2.740709042987832,
+        "RatingDEA": 2.353632210132325
+    },
+    {
+        "Fund_Name": "IDBI Diversified Eqt ",
+        "Ratings": 2.404528474089422,
+        "RatingDEA": 1.4104214550372602
+    },
+    {
+        "Fund_Name": "IDBI Eqt Advantage ",
+        "Ratings": 2.1790149650776853,
+        "RatingDEA": 1.374816094645055
+    },
+    {
+        "Fund_Name": "IDBI India Top 100 Eqt ",
+        "Ratings": 2.634965882126996,
+        "RatingDEA": 1.46336119227117
+    },
+    {
+        "Fund_Name": "IDBI Nifty Index ",
+        "Ratings": 3.252743102617846,
+        "RatingDEA": 1.6670130132434
+    },
+    {
+        "Fund_Name": "IDBI Nifty Junior Index ",
+        "Ratings": 2.260925625735638,
+        "RatingDEA": 1.5623427024493899
+    },
+    {
+        "Fund_Name": "IDFC Core Equity ",
+        "Ratings": 2.7817374589657664,
+        "RatingDEA": 1.56901942285218
+    },
+    {
+        "Fund_Name": "IDFC Focused Equity ",
+        "Ratings": 3.0430890057481874,
+        "RatingDEA": 1.6483083267412801
+    },
+    {
+        "Fund_Name": "IDFC Infrastructure ",
+        "Ratings": 1.5959378343212658,
+        "RatingDEA": 1.5293272803503748
+    },
+    {
+        "Fund_Name": "IDFC Large Cap ",
+        "Ratings": 3.2072026880024715,
+        "RatingDEA": 1.76988058616568
+    },
+    {
+        "Fund_Name": "IDFC Multi Cap ",
+        "Ratings": 1.8947122394848526,
+        "RatingDEA": 1.11836554722396
+    },
+    {
+        "Fund_Name": "IDFC Nifty ",
+        "Ratings": 3.6682727834368083,
+        "RatingDEA": 4.39486119509111
+    },
+    {
+        "Fund_Name": "IDFC Sterling Value ",
+        "Ratings": 2.0056847424434308,
+        "RatingDEA": 1.84620395770333
+    },
+    {
+        "Fund_Name": "IDFC Tax Advantage (ELSS) ",
+        "Ratings": 2.764707339512374,
+        "RatingDEA": 1.502550463619795
+    },
+    {
+        "Fund_Name": "IIFL Focused Equity ",
+        "Ratings": 4.418661463275172,
+        "RatingDEA": 4.009563682573781
+    },
+    {
+        "Fund_Name": "Indiabulls Bluechip ",
+        "Ratings": 3.0328909606845778,
+        "RatingDEA": 1.6100626732078998
+    },
+    {
+        "Fund_Name": "Indiabulls Value ",
+        "Ratings": 1.2653459146583355,
+        "RatingDEA": 0.885401100323365
+    },
+    {
+        "Fund_Name": "Invesco India Contra ",
+        "Ratings": 2.1142889177765265,
+        "RatingDEA": 2.471683538587615
+    },
+    {
+        "Fund_Name": "Invesco India Financial Services ",
+        "Ratings": 1.2296887278593382,
+        "RatingDEA": 0.7772845864114999
+    },
+    {
+        "Fund_Name": "Invesco India Infrastructure ",
+        "Ratings": 3.703463108838674,
+        "RatingDEA": 2.985787989087725
+    },
+    {
+        "Fund_Name": "Invesco India Large Cap ",
+        "Ratings": 3.02509754548978,
+        "RatingDEA": 1.505945919186685
+    },
+    {
+        "Fund_Name": "Invesco India Midcap ",
+        "Ratings": 3.4507421372951876,
+        "RatingDEA": 4.2637191449889
+    },
+    {
+        "Fund_Name": "Invesco India Multicap ",
+        "Ratings": 2.5116751635245764,
+        "RatingDEA": 1.4569618069871502
+    },
+    {
+        "Fund_Name": "Invesco India Nifty ETF ",
+        "Ratings": 3.724822189924144,
+        "RatingDEA": 4.92743482780651
+    },
+    {
+        "Fund_Name": "Invesco India PSU Equity ",
+        "Ratings": 2.496986005706697,
+        "RatingDEA": 1.86796576731013
+    },
+    {
+        "Fund_Name": "Invesco India Tax ",
+        "Ratings": 3.378425744760243,
+        "RatingDEA": 3.8583619493315653
+    },
+    {
+        "Fund_Name": "JM Core 11 ",
+        "Ratings": 2.878337872864443,
+        "RatingDEA": 1.68523173499041
+    },
+    {
+        "Fund_Name": "JM Large Cap ",
+        "Ratings": 2.5409540339941836,
+        "RatingDEA": 2.684360738101275
+    },
+    {
+        "Fund_Name": "JM Multicap ",
+        "Ratings": 3.398408582191746,
+        "RatingDEA": 2.03611166411528
+    },
+    {
+        "Fund_Name": "JM Tax Gain ",
+        "Ratings": 3.792889444415857,
+        "RatingDEA": 4.837940099266575
+    },
+    {
+        "Fund_Name": "JM Value ",
+        "Ratings": 3.134691077915952,
+        "RatingDEA": 1.879392824068945
+    },
+    {
+        "Fund_Name": "Kotak Banking ETF ",
+        "Ratings": 3.521589584288898,
+        "RatingDEA": 1.54572416147192
+    },
+    {
+        "Fund_Name": "Kotak Bluechip ",
+        "Ratings": 3.1320752614767304,
+        "RatingDEA": 3.966886127468645
+    },
+    {
+        "Fund_Name": "Kotak Emerging Equity ",
+        "Ratings": 3.595929297301228,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "Kotak Equity Opportunities ",
+        "Ratings": 3.455162184333691,
+        "RatingDEA": 1.979682468234965
+    },
+    {
+        "Fund_Name": "Kotak India EQ Contra ",
+        "Ratings": 3.615222803723728,
+        "RatingDEA": 4.90343556220465
+    },
+    {
+        "Fund_Name": "Kotak Infra & Eco Reform ",
+        "Ratings": 2.0472234193731955,
+        "RatingDEA": 1.6270568104539702
+    },
+    {
+        "Fund_Name": "Kotak Nifty ETF ",
+        "Ratings": 3.631865975523596,
+        "RatingDEA": 4.72963023695947
+    },
+    {
+        "Fund_Name": "Kotak PSU Bank ETF ",
+        "Ratings": -4.4611310199949745,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "Kotak Sensex ETF ",
+        "Ratings": 4.024726485234066,
+        "RatingDEA": 3.905207562755745
+    },
+    {
+        "Fund_Name": "Kotak Small Cap ",
+        "Ratings": 3.743964206626798,
+        "RatingDEA": 3.7717778943081197
+    },
+    {
+        "Fund_Name": "Kotak Standard Multicap ",
+        "Ratings": 3.443003997846916,
+        "RatingDEA": 1.92986901269975
+    },
+    {
+        "Fund_Name": "Kotak Tax Saver ",
+        "Ratings": 3.2756805633656088,
+        "RatingDEA": 4.5782311854248245
+    },
+    {
+        "Fund_Name": "LIC MF Banking & Fin Services ",
+        "Ratings": 1.8282824663101809,
+        "RatingDEA": 1.571927914813385
+    },
+    {
+        "Fund_Name": "LIC MF ETF Nifty 100 ",
+        "Ratings": 3.140618263142552,
+        "RatingDEA": 1.54259512626742
+    },
+    {
+        "Fund_Name": "LIC MF ETF Nifty 50 ",
+        "Ratings": 2.854080166768192,
+        "RatingDEA": 2.048166768228345
+    },
+    {
+        "Fund_Name": "LIC MF Index Nifty ",
+        "Ratings": 3.0102673768370947,
+        "RatingDEA": 1.6168168685507451
+    },
+    {
+        "Fund_Name": "LIC MF Index Sensex ",
+        "Ratings": 3.2122242025543213,
+        "RatingDEA": 3.955570944747815
+    },
+    {
+        "Fund_Name": "LIC MF Infrastructure ",
+        "Ratings": 2.3204686254690117,
+        "RatingDEA": 0.78581934823361
+    },
+    {
+        "Fund_Name": "LIC MF Large Cap ",
+        "Ratings": 2.764249463390466,
+        "RatingDEA": 2.837406454664465
+    },
+    {
+        "Fund_Name": "LIC MF Large & Midcap ",
+        "Ratings": 3.177886485273516,
+        "RatingDEA": 1.55373434113681
+    },
+    {
+        "Fund_Name": "L&T Business Cycles ",
+        "Ratings": 2.5707250752423185,
+        "RatingDEA": 1.0932270312545151
+    },
+    {
+        "Fund_Name": "L&T Emerging Businesses ",
+        "Ratings": 1.6538340489364667,
+        "RatingDEA": 1.720004663000485
+    },
+    {
+        "Fund_Name": "L&T India Large Cap ",
+        "Ratings": 3.7008523242456866,
+        "RatingDEA": 3.36219307901749
+    },
+    {
+        "Fund_Name": "L&T India Value ",
+        "Ratings": 2.851757678746394,
+        "RatingDEA": 1.495055129378845
+    },
+    {
+        "Fund_Name": "L&T Infrastructure ",
+        "Ratings": 3.2556054752471097,
+        "RatingDEA": 2.878997252491335
+    },
+    {
+        "Fund_Name": "L&T Large and Midcap ",
+        "Ratings": 1.5321053632275587,
+        "RatingDEA": 1.5677408044993149
+    },
+    {
+        "Fund_Name": "L&T Midcap ",
+        "Ratings": 3.494588474514075,
+        "RatingDEA": 1.7278935930185548
+    },
+    {
+        "Fund_Name": "L&T Tax Advantage ",
+        "Ratings": 2.7710200826127367,
+        "RatingDEA": 1.491955037889665
+    },
+    {
+        "Fund_Name": "Mirae Asset Emerging Bluechip ",
+        "Ratings": 4.6745132967118534,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "Mirae Asset Great Consumer ",
+        "Ratings": 3.7111751362942513,
+        "RatingDEA": 3.8681260633548598
+    },
+    {
+        "Fund_Name": "Mirae Asset Large Cap ",
+        "Ratings": 3.7563114001031566,
+        "RatingDEA": 2.055950840720245
+    },
+    {
+        "Fund_Name": "Motilal Oswal Focused 25 ",
+        "Ratings": 3.485515572051309,
+        "RatingDEA": 4.2263095316459145
+    },
+    {
+        "Fund_Name": "Motilal Oswal Long Term Eqt ",
+        "Ratings": 3.173998657240769,
+        "RatingDEA": 1.817716341600605
+    },
+    {
+        "Fund_Name": "Motilal Oswal M50 ETF ",
+        "Ratings": 3.5211467425643175,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "Motilal Oswal Midcap 100 ETF ",
+        "Ratings": 2.3910857082480415,
+        "RatingDEA": 3.787417323994075
+    },
+    {
+        "Fund_Name": "Motilal Oswal Midcap 30 ",
+        "Ratings": 2.1619005040522157,
+        "RatingDEA": 1.354889384244855
+    },
+    {
+        "Fund_Name": "Motilal Oswal Multicap 35 ",
+        "Ratings": 2.9618117680969376,
+        "RatingDEA": 1.640522878141415
+    },
+    {
+        "Fund_Name": "Nippon India Banking ",
+        "Ratings": 2.2351829954116686,
+        "RatingDEA": 1.13893681650716
+    },
+    {
+        "Fund_Name": "Nippon India Consumption ",
+        "Ratings": 2.261668845640564,
+        "RatingDEA": 2.2324173597482
+    },
+    {
+        "Fund_Name": "Nippon India ETF Bank BeES ",
+        "Ratings": 3.507839126923379,
+        "RatingDEA": 1.526698580539815
+    },
+    {
+        "Fund_Name": "Nippon India ETF Consumption ",
+        "Ratings": 3.0971884799921163,
+        "RatingDEA": 4.181239293953345
+    },
+    {
+        "Fund_Name": "Nippon India ETF Dividend Opp ",
+        "Ratings": 2.7893596901362057,
+        "RatingDEA": 2.21728535559152
+    },
+    {
+        "Fund_Name": "Nippon India ETF Infra BeES ",
+        "Ratings": 2.123165189336431,
+        "RatingDEA": 1.317058898530585
+    },
+    {
+        "Fund_Name": "Nippon India ETF Junior BeES ",
+        "Ratings": 2.648767689349908,
+        "RatingDEA": 1.8655244161599698
+    },
+    {
+        "Fund_Name": "Nippon India ETF Nifty 100 ",
+        "Ratings": 3.2752968948023686,
+        "RatingDEA": 1.785440396947985
+    },
+    {
+        "Fund_Name": "Nippon India ETF Nifty BeES ",
+        "Ratings": 3.709343222662289,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "Nippon India ETF NV20 ",
+        "Ratings": 4.126770435785318,
+        "RatingDEA": 4.98321761474397
+    },
+    {
+        "Fund_Name": "Nippon India ETF PSU Bank BeES ",
+        "Ratings": -4.442477374899938,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "Nippon India ETF Shariah BeES ",
+        "Ratings": 3.6871091422974205,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "Nippon India Focused Equity ",
+        "Ratings": 2.4388851852840716,
+        "RatingDEA": 1.29073593782637
+    },
+    {
+        "Fund_Name": "Nippon India Growth ",
+        "Ratings": 3.2110092582281116,
+        "RatingDEA": 4.80057379254644
+    },
+    {
+        "Fund_Name": "Nippon India Growth Inst",
+        "Ratings": 3.1189614890650614,
+        "RatingDEA": 4.1852807917070205
+    },
+    {
+        "Fund_Name": "Nippon India Index Nifty ",
+        "Ratings": 3.3567903614520227,
+        "RatingDEA": 1.732802631310635
+    },
+    {
+        "Fund_Name": "Nippon India Index Sensex ",
+        "Ratings": 3.762244444795182,
+        "RatingDEA": 3.69832897418374
+    },
+    {
+        "Fund_Name": "Nippon India Large Cap ",
+        "Ratings": 2.2853551543581703,
+        "RatingDEA": 1.2540438518961898
+    },
+    {
+        "Fund_Name": "Nippon India Multi Cap ",
+        "Ratings": 1.2507316768912446,
+        "RatingDEA": 0.68077775742706
+    },
+    {
+        "Fund_Name": "Nippon India Pharma ",
+        "Ratings": 3.334529672979136,
+        "RatingDEA": 3.135112868773755
+    },
+    {
+        "Fund_Name": "Nippon India Power & Infra ",
+        "Ratings": 2.157017195789248,
+        "RatingDEA": 1.537278649119445
+    },
+    {
+        "Fund_Name": "Nippon India Quant ",
+        "Ratings": 2.6258987902015174,
+        "RatingDEA": 1.740227599806385
+    },
+    {
+        "Fund_Name": "Nippon India Retrmnt Wealth Creation ",
+        "Ratings": 1.322139007973904,
+        "RatingDEA": 0.7231015656816051
+    },
+    {
+        "Fund_Name": "Nippon India Small Cap ",
+        "Ratings": 3.5514865216084077,
+        "RatingDEA": 4.32650293688018
+    },
+    {
+        "Fund_Name": "Nippon India Tax Saver (ELSS) ",
+        "Ratings": 0.5997306523908331,
+        "RatingDEA": 0.47275173980329
+    },
+    {
+        "Fund_Name": "Nippon India Value ",
+        "Ratings": 2.466202991450641,
+        "RatingDEA": 1.353195729940885
+    },
+    {
+        "Fund_Name": "Nippon India Vision ",
+        "Ratings": 1.6832946857585775,
+        "RatingDEA": 1.0330154329133099
+    },
+    {
+        "Fund_Name": "Parag Parikh Long Term Equity ",
+        "Ratings": 4.406398843980932,
+        "RatingDEA": 4.16442652200448
+    },
+    {
+        "Fund_Name": "PGIM India Diversified Eqt ",
+        "Ratings": 3.520877968473031,
+        "RatingDEA": 3.94897051962732
+    },
+    {
+        "Fund_Name": "PGIM India Large Cap ",
+        "Ratings": 2.9645554862200485,
+        "RatingDEA": 1.548184904675445
+    },
+    {
+        "Fund_Name": "PGIM India Midcap Opp ",
+        "Ratings": 3.2196622032012074,
+        "RatingDEA": 3.4206016591091197
+    },
+    {
+        "Fund_Name": "Principal Dividend Yield ",
+        "Ratings": 3.420334594654171,
+        "RatingDEA": 2.134933439902555
+    },
+    {
+        "Fund_Name": "Principal Emerging Bluechip ",
+        "Ratings": 3.535695637453049,
+        "RatingDEA": 2.03248749822001
+    },
+    {
+        "Fund_Name": "Principal Focused Multicap ",
+        "Ratings": 3.303113397235787,
+        "RatingDEA": 4.900137013252885
+    },
+    {
+        "Fund_Name": "Principal Multi Cap Growth ",
+        "Ratings": 2.871805914336643,
+        "RatingDEA": 1.67096812257219
+    },
+    {
+        "Fund_Name": "Principal Nifty 100 Equal Weight ",
+        "Ratings": 2.0034257252061893,
+        "RatingDEA": 1.19492512397763
+    },
+    {
+        "Fund_Name": "Principal Personal Tax Saver",
+        "Ratings": 2.18135811708754,
+        "RatingDEA": 1.19528223844384
+    },
+    {
+        "Fund_Name": "Principal Tax Savings ",
+        "Ratings": 2.896240566424422,
+        "RatingDEA": 1.676402002719525
+    },
+    {
+        "Fund_Name": "Quant Active ",
+        "Ratings": 3.9550540811736337,
+        "RatingDEA": 4.38842457327252
+    },
+    {
+        "Fund_Name": "Quant Consumption ",
+        "Ratings": 3.740956618380154,
+        "RatingDEA": 4.9279304820446
+    },
+    {
+        "Fund_Name": "Quant Focused ",
+        "Ratings": 2.568696313598015,
+        "RatingDEA": 1.513731797771585
+    },
+    {
+        "Fund_Name": "Quant Infrastructure ",
+        "Ratings": 3.3154055735239307,
+        "RatingDEA": 3.1082057961325398
+    },
+    {
+        "Fund_Name": "Quant Large & Midcap ",
+        "Ratings": 2.951413773698518,
+        "RatingDEA": 1.988295395042205
+    },
+    {
+        "Fund_Name": "Quant Midcap ",
+        "Ratings": 2.9066970803769223,
+        "RatingDEA": 3.682702792900855
+    },
+    {
+        "Fund_Name": "Quant Small Cap ",
+        "Ratings": 2.988941608147519,
+        "RatingDEA": 3.5409636629213996
+    },
+    {
+        "Fund_Name": "Quant Tax ",
+        "Ratings": 4.551760014852836,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "Quantum Equity FoF",
+        "Ratings": 2.7777395751475185,
+        "RatingDEA": 1.68714017311834
+    },
+    {
+        "Fund_Name": "Quantum Long Term Eqt Value",
+        "Ratings": 2.290727321164489,
+        "RatingDEA": 1.415269128596825
+    },
+    {
+        "Fund_Name": "Quantum Nifty ETF ",
+        "Ratings": 3.691127391497315,
+        "RatingDEA": 4.9293414802188105
+    },
+    {
+        "Fund_Name": "Quantum Tax Saving",
+        "Ratings": 2.380459131432519,
+        "RatingDEA": 1.4263621011325252
+    },
+    {
+        "Fund_Name": "SBI Banking & Fin Services ",
+        "Ratings": 4.999999999997074,
+        "RatingDEA": 4.49741091615201
+    },
+    {
+        "Fund_Name": "SBI Bluechip ",
+        "Ratings": 2.936648994514339,
+        "RatingDEA": 1.62995475252312
+    },
+    {
+        "Fund_Name": "SBI Consumption Opportunities ",
+        "Ratings": 2.696445685982523,
+        "RatingDEA": 4.2474436219922005
+    },
+    {
+        "Fund_Name": "SBI Contra ",
+        "Ratings": 1.9305858444563153,
+        "RatingDEA": 1.2033788115085151
+    },
+    {
+        "Fund_Name": "SBI ETF BSE 100 ",
+        "Ratings": 3.5059312328312826,
+        "RatingDEA": 1.983171186049335
+    },
+    {
+        "Fund_Name": "SBI ETF Nifty 50 ",
+        "Ratings": 3.7433110619541017,
+        "RatingDEA": 4.972776907155055
+    },
+    {
+        "Fund_Name": "SBI ETF Nifty Bank ",
+        "Ratings": 3.53286937283979,
+        "RatingDEA": 1.5404278843208998
+    },
+    {
+        "Fund_Name": "SBI ETF Nifty Next 50 ",
+        "Ratings": 2.7196441435686385,
+        "RatingDEA": 1.9145636574458649
+    },
+    {
+        "Fund_Name": "SBI Focused Equity ",
+        "Ratings": 3.81388091202937,
+        "RatingDEA": 4.140832268287575
+    },
+    {
+        "Fund_Name": "SBI Healthcare Opportunities ",
+        "Ratings": 1.702165644773956,
+        "RatingDEA": 2.05437990170689
+    },
+    {
+        "Fund_Name": "SBI Infrastructure ",
+        "Ratings": 2.841463918377939,
+        "RatingDEA": 1.72782728988119
+    },
+    {
+        "Fund_Name": "SBI Large & Midcap ",
+        "Ratings": 2.7130789516447438,
+        "RatingDEA": 1.600777213277035
+    },
+    {
+        "Fund_Name": "SBI Long Term Equity Fund ",
+        "Ratings": 2.1788410338092885,
+        "RatingDEA": 1.18460142236748
+    },
+    {
+        "Fund_Name": "SBI Magnum COMMA ",
+        "Ratings": 4.105224222094791,
+        "RatingDEA": 2.89977938473817
+    },
+    {
+        "Fund_Name": "SBI Magnum Equity ESG ",
+        "Ratings": 3.2310130553918954,
+        "RatingDEA": 3.58289336705292
+    },
+    {
+        "Fund_Name": "SBI Magnum Global ",
+        "Ratings": 2.5413703643524093,
+        "RatingDEA": 4.455786140971035
+    },
+    {
+        "Fund_Name": "SBI Magnum Midcap ",
+        "Ratings": 2.232967321863494,
+        "RatingDEA": 1.7045377086034499
+    },
+    {
+        "Fund_Name": "SBI Magnum MultiCap ",
+        "Ratings": 3.047735625030923,
+        "RatingDEA": 1.72146099230162
+    },
+    {
+        "Fund_Name": "SBI Nifty Index ",
+        "Ratings": 3.4643935738904634,
+        "RatingDEA": 4.125195814776305
+    },
+    {
+        "Fund_Name": "SBI PSU ",
+        "Ratings": 0.4224564095208386,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "SBI Small Cap ",
+        "Ratings": 4.719728805234601,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "SBI Technology Opportunities ",
+        "Ratings": 4.12650332374569,
+        "RatingDEA": 2.557314814441875
+    },
+    {
+        "Fund_Name": "Sundaram Diversified Equity ",
+        "Ratings": 2.167150692152477,
+        "RatingDEA": 1.21727110771539
+    },
+    {
+        "Fund_Name": "Sundaram Fin Services Opp ",
+        "Ratings": 3.8001132410391234,
+        "RatingDEA": 1.887833045448355
+    },
+    {
+        "Fund_Name": "Sundaram Infrastructure Adv ",
+        "Ratings": 2.048255570802338,
+        "RatingDEA": 1.240632742386865
+    },
+    {
+        "Fund_Name": "Sundaram Large & Midcap ",
+        "Ratings": 3.0701432942683526,
+        "RatingDEA": 1.5677259209284
+    },
+    {
+        "Fund_Name": "Sundaram Midcap ",
+        "Ratings": 1.9913429467697101,
+        "RatingDEA": 1.57584052510886
+    },
+    {
+        "Fund_Name": "Sundaram Rural & Consumption ",
+        "Ratings": 3.2473322906342443,
+        "RatingDEA": 1.7608495554137398
+    },
+    {
+        "Fund_Name": "Sundaram Select Focus ",
+        "Ratings": 3.319938247157525,
+        "RatingDEA": 4.126967090362185
+    },
+    {
+        "Fund_Name": "Sundaram Small Cap ",
+        "Ratings": 1.3823375138231906,
+        "RatingDEA": 1.730322242510955
+    },
+    {
+        "Fund_Name": "Tata Equity PE ",
+        "Ratings": 3.1155151957104863,
+        "RatingDEA": 1.865978138416625
+    },
+    {
+        "Fund_Name": "Tata Ethical ",
+        "Ratings": 2.48871770419605,
+        "RatingDEA": 4.192769272012355
+    },
+    {
+        "Fund_Name": "Tata Index Nifty ",
+        "Ratings": 3.4901005244507473,
+        "RatingDEA": 4.082945818169115
+    },
+    {
+        "Fund_Name": "Tata Index Sensex ",
+        "Ratings": 3.847067973090563,
+        "RatingDEA": 3.6615186126030155
+    },
+    {
+        "Fund_Name": "Tata India Tax Savings ",
+        "Ratings": 3.20646601565648,
+        "RatingDEA": 1.658200034788895
+    },
+    {
+        "Fund_Name": "Tata Infrastructure ",
+        "Ratings": 2.1650095983954514,
+        "RatingDEA": 1.675750269452385
+    },
+    {
+        "Fund_Name": "Tata Large Cap ",
+        "Ratings": 3.0112270793559945,
+        "RatingDEA": 1.19586325154255
+    },
+    {
+        "Fund_Name": "Tata Large & Midcap ",
+        "Ratings": 2.4432365486108694,
+        "RatingDEA": 1.6034349637509602
+    },
+    {
+        "Fund_Name": "Tata Midcap Growth ",
+        "Ratings": 3.0827214621508947,
+        "RatingDEA": 3.759492871627555
+    },
+    {
+        "Fund_Name": "Tata Retrmnt Svngs Progressive ",
+        "Ratings": 3.5170473326461673,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "Taurus Banking & Financial Srvcs ",
+        "Ratings": 3.7831733136630623,
+        "RatingDEA": 3.69009185482128
+    },
+    {
+        "Fund_Name": "Taurus Discovery (Midcap) ",
+        "Ratings": 3.3394352345782092,
+        "RatingDEA": 4.945356236407615
+    },
+    {
+        "Fund_Name": "Taurus Ethical ",
+        "Ratings": 3.0848173320678587,
+        "RatingDEA": 3.625678148399525
+    },
+    {
+        "Fund_Name": "Taurus Infrastructure ",
+        "Ratings": 3.028788962146876,
+        "RatingDEA": 2.560779840933095
+    },
+    {
+        "Fund_Name": "Taurus Largecap Equity ",
+        "Ratings": 1.8270336797179954,
+        "RatingDEA": 0.92728778488537
+    },
+    {
+        "Fund_Name": "Taurus Nifty Index ",
+        "Ratings": 3.3832022566413067,
+        "RatingDEA": 3.900572881946105
+    },
+    {
+        "Fund_Name": "Taurus Starshare (Multi Cap) ",
+        "Ratings": 1.5050845632679763,
+        "RatingDEA": 0.8337613065816151
+    },
+    {
+        "Fund_Name": "Taurus Tax Shield ",
+        "Ratings": 3.2625258426683867,
+        "RatingDEA": 4.403516002292164
+    },
+    {
+        "Fund_Name": "Templeton India Eqt Income  ",
+        "Ratings": 2.5889297209803983,
+        "RatingDEA": 1.60429961481264
+    },
+    {
+        "Fund_Name": "Templeton India Value  ",
+        "Ratings": 1.575799773699932,
+        "RatingDEA": 1.08616646800726
+    },
+    {
+        "Fund_Name": "Union Long Term Equity ",
+        "Ratings": 2.603201204269958,
+        "RatingDEA": 3.178021122760515
+    },
+    {
+        "Fund_Name": "Union Multi Cap ",
+        "Ratings": 2.8832108720028375,
+        "RatingDEA": 3.38279681071315
+    },
+    {
+        "Fund_Name": "Union Small Cap ",
+        "Ratings": 2.3933632340498296,
+        "RatingDEA": 2.65850555457037
+    },
+    {
+        "Fund_Name": "UTI Banking & Fin Services ",
+        "Ratings": 2.313988781541931,
+        "RatingDEA": 1.20987996732749
+    },
+    {
+        "Fund_Name": "UTI Children's Career Investment ",
+        "Ratings": 3.063112165109811,
+        "RatingDEA": 1.7042112700123
+    },
+    {
+        "Fund_Name": "UTI Core Equity ",
+        "Ratings": 1.8236071446238866,
+        "RatingDEA": 1.100285326320845
+    },
+    {
+        "Fund_Name": "UTI Dividend Yield ",
+        "Ratings": 2.6926147414421067,
+        "RatingDEA": 1.7661451468893898
+    },
+    {
+        "Fund_Name": "UTI Equity ",
+        "Ratings": 4.016973505638588,
+        "RatingDEA": 3.69406546459972
+    },
+    {
+        "Fund_Name": "UTI Healthcare ",
+        "Ratings": 2.532149523591155,
+        "RatingDEA": 2.655116519318465
+    },
+    {
+        "Fund_Name": "UTI India Consumer ",
+        "Ratings": 2.6103359408881937,
+        "RatingDEA": 3.37877248569816
+    },
+    {
+        "Fund_Name": "UTI Infrastructure ",
+        "Ratings": 1.991721375512162,
+        "RatingDEA": 1.2380857211295
+    },
+    {
+        "Fund_Name": "UTI Long Term Equity ",
+        "Ratings": 2.9483290323816824,
+        "RatingDEA": 1.61560205976714
+    },
+    {
+        "Fund_Name": "UTI Mastershare ",
+        "Ratings": 3.1476090317854006,
+        "RatingDEA": 1.77398365486334
+    },
+    {
+        "Fund_Name": "UTI Midcap ",
+        "Ratings": 2.7142264144810597,
+        "RatingDEA": 1.971160996939645
+    },
+    {
+        "Fund_Name": "UTI MNC ",
+        "Ratings": 2.054652343147749,
+        "RatingDEA": 1.360068274171665
+    },
+    {
+        "Fund_Name": "UTI Nifty ETF ",
+        "Ratings": 3.755320130973962,
+        "RatingDEA": 5.0
+    },
+    {
+        "Fund_Name": "UTI Nifty Index ",
+        "Ratings": 3.6459828834759263,
+        "RatingDEA": 4.815820507161295
+    },
+    {
+        "Fund_Name": "UTI Transportation & Logistics ",
+        "Ratings": 0.6074420044281447,
+        "RatingDEA": 0.44397704329479953
+    },
+    {
+        "Fund_Name": "UTI Value Opportunities ",
+        "Ratings": 2.87374220888794,
+        "RatingDEA": 1.5518393516853548
+    }
+]
