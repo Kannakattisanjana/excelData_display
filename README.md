@@ -27,6 +27,8 @@
 
 
 
+
+
 * To run the react application which displays the table content on the web page.
 
 1. Install the application.
