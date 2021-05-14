@@ -8,7 +8,7 @@ export const userColumns = [
     key: "Fund_Name",
     sorter: {
       compare: Sorter.DEFAULT,
-      multiple: 1
+      multiple: 2
     }
   },
   {
@@ -17,44 +17,41 @@ export const userColumns = [
     key: "Ratings",
     sorter: {
       compare: Sorter.DEFAULT,
-      multiple: 1
+      multiple: 2
     }
   },
+  {
+    title: "5 STAR RATING BASED ON CONJOINTANALYSIS",
+    key : "Ratings",  
+    render: (records) => {
+      const recod = records.Ratings;
+      const reco = parseFloat(recod.toFixed(1));
+        return (
+          <ReactStars size={25} isHalf={true} edit={false} value={reco}/>
+        );
+      }
+    
+  },
+
   {
     title: "DEA Ratings",
     dataIndex: "RatingDEA",
     key: "RatingDEA",
     sorter: {
       compare: Sorter.DEFAULT,
-      multiple: 1
+      multiple: 2
     }
   },
-  {
-    title: "5 STAR RATING BASED ON CONJOINTANALYSIS",
-    key : "Ratings",  
-    render:(Ratings) => {
-      const firstExample = {
-        size: 30,
-        value: 2.5,
-        isHalf: true,
-        edit: false
-      };
-      return (
-      <ReactStars {...firstExample}/>);
-      }
-  },
+
   {
     title: "5 STAR RATING BASED ON DEA",
     key : "RatingDEA",  
-    render:(Ratings) => {
-      const firstExample = {
-        size: 30,
-        value: 2.5,
-        isHalf: true,
-        edit: false
-      };
-      return (
-      <ReactStars {...firstExample}/>);
+    render: (records) => {
+      const DEA = records.RatingDEA;
+      const DEAS = parseFloat(DEA.toFixed(1));
+        return (
+          <ReactStars size={25} isHalf={true} edit={true} value={DEAS}/>
+        );
       }
   }
   
